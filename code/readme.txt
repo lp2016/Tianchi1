@@ -4,3 +4,6 @@ combine.py
    用于拼接图片
 splitimage.py
    用于切割图片
+   
+FCN:model
+   使用之前阅读以下FCN文件夹下的readme.txt

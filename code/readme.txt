@@ -4,4 +4,3 @@ combine.py
    用于拼接图片
 splitimage.py
    用于切割图片
-   hah
